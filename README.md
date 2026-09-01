@@ -8,7 +8,7 @@ Gustavo Nunes da Silva
 ## Cards
 
 | Card | Tema |
-|01|
+|01| O Que é Aprendizado de Máquina(I)
 |02|
 |03|
 |04| Prática: Principais Bibliotecas e Ferramentas Python para Aprendizado de Máquina (I)|
