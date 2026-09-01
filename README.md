@@ -8,4 +8,8 @@ Gustavo Nunes da Silva
 ## Cards
 
 | Card | Tema |
+|01|
+|02|
+|03|
 |04| Prática: Principais Bibliotecas e Ferramentas Python para Aprendizado de Máquina (I)|
+|05|
