@@ -1,0 +1,8 @@
+vendedor,produto,qtd,desconto,preco,receita,faixa
+Ana,tenis,12.0,0.1,120.0,1296.0,alta
+Bruno,caneta,8.0,0.0,19.9,159.2,baixa
+Ana,mochila,10.0,0.0,45.0,450.0,alta
+Carla,tenis,5.0,0.15,120.0,510.0,alta
+Bruno,mochila,13.0,0.05,45.0,555.75,alta
+Carla,caderno,2.0,0.0,8.5,17.0,baixa
+Ana,caneta,20.0,0.2,19.9,318.40000000000003,alta
