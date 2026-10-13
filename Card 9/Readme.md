@@ -13,5 +13,3 @@ Gostou do curso? Quer mais? Ajude com uma doação, até um café é válido =)
 ### Outros cursos
 
 Veja mais em : [willian justen cursos](http://willianjusten.com.br/cursos/).
-
-Repositorio clonado e usado por mim no card 9 do bootcamp do LAMIA.
