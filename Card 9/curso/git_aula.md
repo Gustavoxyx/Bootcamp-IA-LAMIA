@@ -14,8 +14,8 @@ Criando o repositório:
 git init
 Isso cria uma pasta escondida `.git` dentro do projeto. Daqui pra frente, o Git começa a olhar tudo que acontece nessa pasta.
 Ciclo de vida dos arquivos
-echo "# Curso de Git e GitHub - LAMIA" > Readme.md
+echo " Curso de Git e GitHub - LAMIA" > Readme.md
 
-git status                       ## o arquivo aparece em vermelho, como untracked
-git add Readme.md                 ##jogo ele pro stage(onde eu preparo o que vai entrar no próximo commit.) 
-git status                       ## agora aparece em verde, prontinho pro commit
+git status - o arquivo aparece em vermelho, como untracked
+git add Readme.md - jogo ele pro stage(onde eu preparo o que vai entrar no próximo commit.) 
+git status - agora aparece em verde, prontinho pro commit
